@@ -14,7 +14,6 @@ Welcome to my **Power BI Projects** repository! This is a dedicated space where 
 ## 📂 Repository Structure
 
 - **Project Directories**: Each project will have its own directory containing the .pbix files, data sources, and documentation.
-- **`data/`**: Common directory for storing datasets used across different projects.
 
 ## 🔄 Future Projects
 
@@ -22,7 +21,6 @@ Stay tuned for more exciting projects, including:
 
 - **Sales Analysis Dashboard** 📊
 - **Customer Segmentation Report** 🛒
-- **Financial Performance Tracking** 💹
 - And many more!
 
 ## 🤝 Contributions
